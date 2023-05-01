@@ -13,6 +13,16 @@ This project is a fork of Frank Krueger's excellent [AskGPT](https://github.com/
 ask what is the meaning of life?
 ```
 
+### Optionally Connect to SQL Server tables or views
+An optional extensibility point is supported for SQL Server, allowing users to ask natural language questions about data contained in your configured database tables.
+A single database configuration file sets up this feature.
+
+<img width="900" alt="Screenshot" src="https://raw.githubusercontent.com/githubjoneill/AskOpenAPI/master/.github/Ask2.png">
+
+
+For debugging purposes, the dynamic SQL queries generate from user questions can be shown along with the result.
+<img width="900" alt="Screenshot" src="https://raw.githubusercontent.com/githubjoneill/AskOpenAPI/master/.github/Ask3.png">
+
 ## Installation
 
 1. [Install .NET 7](https://dotnet.microsoft.com/download/dotnet/7.0)
