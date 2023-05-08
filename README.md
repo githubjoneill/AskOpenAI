@@ -17,7 +17,7 @@ ask what is the meaning of life?
 An optional extensibility point is supported for SQL Server, allowing users to ask natural language questions about data contained in your configured database tables.
 A single database configuration file sets up this feature.
 
-<img width="900" alt="Screenshot" src="https://raw.githubusercontent.com/githubjoneill/AskOpenAPI/master/.github/Ask2.png">
+<img width="900" alt="Screenshot" src="https://raw.githubusercontent.com/githubjoneill/AskOpenAPI/master/.github/Ask5.png">
 
 
 For debugging purposes, the dynamic SQL queries generate from user questions can be shown along with the result.
